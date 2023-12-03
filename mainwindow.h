@@ -10,7 +10,7 @@
 #include <QDebug>
 #include <QStringList>
 #include <QList>
-
+#include <QDateTime>
 #include <QFile>
 #include <QImageReader>
 #include <QImageIOHandler>
